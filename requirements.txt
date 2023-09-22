@@ -1,0 +1,10 @@
+uvicorn
+pandas
+numpy
+FastApi
+matplotlib
+scikit-learn
+datatime
+seaborn
+ast
+sklearn
